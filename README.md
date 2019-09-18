@@ -1,4 +1,4 @@
-# Trillo
+# Nexter
 
 ## Description
 
@@ -15,7 +15,7 @@ git clone https://github.com/ManosChr/Trillo.git
 - cd to repo folder
 
 ```
-cd Trillo
+cd Nexter
 ```
 
 - install locally (generates static files)
