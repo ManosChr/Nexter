@@ -9,7 +9,7 @@
 - clone repo
 
 ```
-git clone https://github.com/ManosChr/Trillo.git
+git clone https://github.com/ManosChr/Nexter.git
 ```
 
 - cd to repo folder
